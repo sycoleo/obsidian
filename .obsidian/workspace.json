@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "2174231f2a03f793",
+    "type": "split",
+    "children": [
+      {
+        "id": "016455745cbf404a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6a565599f8438db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "configuration/__templates/task_template.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "61b3f8a3bdd01407",
+    "type": "split",
+    "children": [
+      {
+        "id": "2584b9381a5bc248",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a51bd47da078ba6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fbcbbd67d0d5cbf5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "19de50f646cbad38",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "355a1e2ea6af0c53",
+    "type": "split",
+    "children": [
+      {
+        "id": "e33a259c7303d537",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8284c1408e973e1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "configuration/__templates/task_template.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5e46cdc048f84016",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "34491ce239ffdcc1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "configuration/__templates/task_template.md"
+              }
+            }
+          },
+          {
+            "id": "8d216bb842b53f03",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "bef92ca169ac4d4d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "configuration/__templates/task_template.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "a6a565599f8438db",
+  "lastOpenFiles": [
+    "daily_logs/test.md",
+    "tasks/roseland/test_subtask.md",
+    "tasks/roseland/test_task.md",
+    "tasks/task_status.md",
+    "Home.md",
+    "configuration/__templates/task_template.md",
+    "configuration/__banners/daily_banner.gif",
+    "configuration/__banners/weekly_banner.gif",
+    "daily_logs/2022-10-24.md",
+    "homepage.md"
+  ]
+}

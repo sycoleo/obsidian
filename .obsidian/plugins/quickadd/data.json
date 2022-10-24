@@ -1,0 +1,36 @@
+{
+  "choices": [
+    {
+      "id": "11755515-4be2-4228-b6fc-fe0a7d08a24e",
+      "name": "task",
+      "type": "Template",
+      "command": true,
+      "templatePath": "configuration/__templates/task_template",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "tasks",
+          "tasks/roseland",
+          "tasks/tianmu"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": true,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    }
+  ],
+  "macros": [],
+  "inputPrompt": "single-line"
+}
