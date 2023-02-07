@@ -8,9 +8,9 @@
   "templater-obsidian",
   "obsidian-linter",
   "homepage",
-  "dbfolder",
   "obsidian-custom-frames",
   "obsidian-metatable",
   "multi-column-markdown",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "obsidian-excalidraw-plugin"
 ]
